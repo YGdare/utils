@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class testDemo {
+public class ReplaceWithNameAndModel {
 
     //批量处理脚本
     public static void main(String[] args) {
