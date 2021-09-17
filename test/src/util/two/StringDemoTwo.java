@@ -1,4 +1,4 @@
-package replaceWithNameAndName;
+package util.two;
 
 public class StringDemoTwo {
     String strDemo = "{\n" +
